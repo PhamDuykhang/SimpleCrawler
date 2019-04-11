@@ -1,0 +1,49 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "6C3LYFDsp1HNrgzVxCcBlKCifC0=",
+			"path": "github.com/PuerkitoBio/goquery",
+			"revision": "3dcf72e6c17f694381a21592651ca1464ded0e10",
+			"revisionTime": "2019-01-09T23:07:04Z"
+		},
+		{
+			"checksumSHA1": "7DQlhUmi8waYHuk3kvrWiTLVygM=",
+			"path": "github.com/andybalholm/cascadia",
+			"revision": "680b6a57bda4f657485ad44bdea42342ead737bc",
+			"revisionTime": "2018-10-12T15:44:24Z"
+		},
+		{
+			"checksumSHA1": "Aulh7C5SVOA4Jzt5eHNH6197Mbk=",
+			"path": "github.com/konsorten/go-windows-terminal-sequences",
+			"revision": "f55edac94c9bbba5d6182a4be46d86a2c9b5b50e",
+			"revisionTime": "2019-02-26T22:47:05Z"
+		},
+		{
+			"checksumSHA1": "mB5o9lbse489BCvZGbRkarc2Xp0=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "9b3cdde74fbe9443d704467498a7dcb61a79de9b",
+			"revisionTime": "2019-04-03T09:10:19Z"
+		},
+		{
+			"checksumSHA1": "Vj7GeUWk9nB69/MbXIbzm7fmKn4=",
+			"path": "golang.org/x/net/html",
+			"revision": "eb5bcb51f2a31c7d5141d810b70815c05d9c9146",
+			"revisionTime": "2019-04-03T01:06:53Z"
+		},
+		{
+			"checksumSHA1": "XtSbs1gpyaEsIqf6VRhJsgOQe5U=",
+			"path": "golang.org/x/net/html/atom",
+			"revision": "eb5bcb51f2a31c7d5141d810b70815c05d9c9146",
+			"revisionTime": "2019-04-03T01:06:53Z"
+		},
+		{
+			"checksumSHA1": "OabEbbJcLc/KKRyAevJpUsi2Ssc=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "4b34438f7a67ee5f45cc6132e2bad873a20324e9",
+			"revisionTime": "2019-04-05T15:09:22Z"
+		}
+	],
+	"rootPath": "github.com/PhamDuyKhang/Simplecrawler"
+}
